@@ -1,0 +1,56 @@
+/* You can add global styles to this file, and also import other style files */
+
+h1 {
+    text-align: center;
+    color: chocolate;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 400%;
+    
+}
+
+h2, h3 {
+    color:cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+body {
+    margin: 5em;
+}
+body, input[text= "text"]
+
+button{
+    color: firebrick;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+button{ 
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    font-size: 1.2rem;
+    padding: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+
+}
+
+button:hover {
+    background-color: #000;
+    color: white;
+}
+
+button:disabled {
+    background-color: #eee;
+    color: #aaa;
+    cursor: auto;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
